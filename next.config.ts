@@ -35,11 +35,6 @@ const nextConfig: NextConfig = {
                 permanent: true,
             },
             {
-                source: '/lksg/',
-                destination: '/',
-                permanent: true,
-            },
-            {
                 source: '/links/',
                 destination: '/',
                 permanent: true,
