@@ -69,16 +69,6 @@ const nextConfig: NextConfig = {
                 destination: '/',
                 permanent: true,
             },
-            {
-                source: 'https://www.xn--bderstrasse-l8a.com/fachpartner-login',
-                destination: 'https://shk-deutschland.de/shop-auswahl/',
-                permanent: true,
-            },
-            {
-                source: 'https://www.xn--bderstrasse-l8a.com/fachpartner-anmeldung',
-                destination: 'https://shk-deutschland.de/partner-werden/',
-                permanent: true,
-            },
         ];
     },
 };
